@@ -97,7 +97,7 @@ def div():
     i = float(n1)
     e.delete(0, END)
 
-# Function to calculate resfloat
+# Function to calculate result
 def equal():
     n2 = e.get()                             # Get the second number
     e.delete(0, END)                         # Clear the entry
