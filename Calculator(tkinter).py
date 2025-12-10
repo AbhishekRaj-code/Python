@@ -7,6 +7,7 @@ from tkinter import *
 
 # Creating main window
 window = Tk()
+window.title("Simple Calculator")
 window.geometry("500x500")
 
 # Creating an entry widget for displaying input and results
