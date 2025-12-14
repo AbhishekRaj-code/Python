@@ -1,0 +1,1 @@
+Learning to add images to the webpage.
