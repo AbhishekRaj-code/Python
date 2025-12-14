@@ -1,0 +1,1 @@
+Learning template inheritance.
